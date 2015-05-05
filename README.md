@@ -1,2 +1,2 @@
-# InFocus Styleguide
+# InFocus Style Guide
 Style Guide for common InFocus design assets
